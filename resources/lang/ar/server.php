@@ -1,0 +1,42 @@
+<?php
+
+return [
+    'myServices'                    => 'خدماتي',
+    'payments'                      => 'الطلبيات',
+    'earnings'                      => 'الارباح',
+
+    'newService'                    => 'انشئ خدمة جديدة',
+    'title'                         => 'العنوان',
+    'categories'                    => 'التصنيفات',
+    'selectCategory'                => 'اختر التصنيف',
+    'subCategories'                 => 'التصنيفات الفرعية',
+    'selectSubCategory'             => 'اختر التصنيف الفرعي',
+    'price'                         => 'الثمن',
+    'duration'                      => 'المدة',
+    'quantity'                      => 'الكمية',
+    'description'                   => 'الوصف',
+    'create'                        => 'انشاء',
+
+    'serviceTitle'                  => 'عنوان الخدمة',
+    'serviceCategory'               => 'تصنيف الخدمة',
+    'serviceSubCategory'            => 'فرع التصنيق',
+    'servicePaymentMethod'          => 'طريقة الدفع',
+    'serviceCurrency'               => 'العملة',
+    'serviceDuration'               => 'مدة الخدمة',
+    'servicePurchases'              => 'عدد المشتريات',
+    'serviceRemaining'              => 'الخدمات المتبقية',
+    'serviceNumberRates'            => 'عدد التقييمات',
+    'serviceStatus'                 => 'الحالة',
+    'serviceCreated_at'             => 'تاريخ الانشاء',
+    'serviceUpdated_at'             => 'تاريخ اخر تعديل',
+    'serviceDescription'            => 'وصف الخدمة',
+ 
+    'save'                          => 'حفظ التغييرات',
+    'view'                          => 'معاينة',
+    'paymentId'                     => 'رقم الشراء',
+    'serviceId'                     => 'رقم الخدمة',
+    'userId'                        => 'رقم المستخدم',
+    'actions'                       => 'العمليات',
+    'edit'                          => 'تعديل',
+    'delete'                        => 'ازالة',
+];
